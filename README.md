@@ -30,5 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AsuweRich&show_icons=true&locale=en" alt="eyoul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AsuweRich&" alt="AsuweRich" /></p>
-
-No README.md, .gitignore, or license
