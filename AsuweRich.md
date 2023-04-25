@@ -17,10 +17,10 @@ My Name is Richard. I am a software engineer with interest in solving real-world
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=betascribbles&show_icons=true&theme=jolly&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=AsuweRich&show_icons=true&theme=jolly&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betascribbles&langs_count=8&theme=jolly&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsuweRich&langs_count=8&theme=jolly&layout=compact" />
 </a>
 
 <p> 
