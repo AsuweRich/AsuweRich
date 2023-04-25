@@ -1,7 +1,7 @@
 <img src="https://github.com/betascribbles/betascribbles/blob/main/banner.png" />
 
-My Name is [Firdaus](https://linktr.ee/firdaus_h_salim). I am a software engineer with interest in solving real-world problems with technology and dependable leadership. An avid [writer](https://www.amazon.com/Scattered-Tears-Heartbreak-Heals/dp/B092P9NQTP) | [reader](https://www.goodreads.com/author/show/21309619.Firdaus_H_Salim) exploring information technology advancements and personal development through books. Writes technical articles in Hashnode ([@BetaScribbles](https://betascribbles.hashnode.dev/)) and non-technical articles in Medium ([@BetaScribbles](https://betascribbles.medium.com/)). <br/>
-Ask me anything [here](https://github.com/betascribbles/betascribbles/issues?q=is%3Aissue+is%3Aopen).
+My Name is Richard. I am a software engineer with interest in solving real-world problems with technology and dependable leadership. An avid reader exploring information technology advancements and personal development. 
+
 
 <div align="center">
 <p>
@@ -24,8 +24,8 @@ Ask me anything [here](https://github.com/betascribbles/betascribbles/issues?q=i
 </a>
 
 <p> 
-  <a href="https://twitter.com/BetaScribbles" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/firdaus-h-salim-73589118b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://betascribbles.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://twitter.com/AsuweRich" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/richard-asuwe/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://www.instagram.com/richard.asuwe" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 </div>
